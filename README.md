@@ -1,4 +1,4 @@
-### Hi there, I am front-end developer from Russia, Saint-Petersburg 👋
+### Hi there, I am front-end developer from Sebia, Novi Sad 👋
 
 <hr />
 
