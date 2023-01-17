@@ -1,4 +1,4 @@
-### Hi there, I am front-end developer from Sebia, Novi Sad 👋
+### Hi there, I am front-end developer from Serbia, Novi Sad 👋
 
 <hr />
 
